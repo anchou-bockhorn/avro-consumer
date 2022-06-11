@@ -1,0 +1,15 @@
+{
+  "namespace": "org.acme.kafka.quarkus",
+  "type": "record",
+  "name": "Banana",
+  "fields": [
+    {
+      "name": "origin",
+      "type": "int"
+    },
+    {
+      "name": "size",
+      "type": "int"
+    }
+  ]
+}
